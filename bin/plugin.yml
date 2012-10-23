@@ -1,0 +1,9 @@
+name: ExplosiveArrow
+version: 1.0
+author: TheHarofreak
+main: de.theharofreak.ExplosiveArrow
+
+commands:
+  explosivearrow:
+    usage: /<command> <raduis>
+    aliases: exarrow
